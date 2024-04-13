@@ -68,7 +68,7 @@ function Projects() {
               description="Developed a model to recommend books using machine learning algorithm.Integrated the book recommendation system with the front-end of a web application,to provide personalized book recommendations to users"
               ghLink="https://github.com/Shashwat-451/BOOKWISE"
 
-            // demoLink="https://blogs.soumya-jit.tech/"      <--------Please include a demo link here 
+            // demoLink=""     
             />
           </Col>
 
@@ -78,8 +78,8 @@ function Projects() {
               isBlog={false}
               title="Learn Loop"
               description="Developed a MERN Stack website for spaced repetition learning. It utilizes the SM-2 algorithm to optimize review sessions.The goal is to provide an effective tool for enhancing learning through spaced repetition."
-            // ghLink="https://github.com/soumyajit4419/Chatify"
-            // demoLink="https://chatify-49.web.app/"
+            // ghLink=""
+            // demoLink=""
             />
           </Col>
 
@@ -89,8 +89,8 @@ function Projects() {
               isBlog={false}
               title="Construct Nex"
               description="Designed and developed all-in-one platform to streamline construction projects seamlessly. It aims to revolutionize how construction projects are planned to enhance efficiency, collaboration, and transparency throughout the construction lifecycle."
-            // ghLink="https://github.com/soumyajit4419/Bits-0f-C0de"
-            // demoLink="https://blogs.soumya-jit.tech/"
+            // ghLink=""
+            // demoLink=""
             />
           </Col>
 
